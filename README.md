@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">A passionate full stack developer from Lille 🇫🇷</h3>
+<h3 align="center">A passionate full stack developer from Nantes 🇫🇷</h3>
 
 - 🌱 I’m currently learning **javascript**
 
