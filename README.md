@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">A passionate full stack developer from Nantes 🇫🇷</h3>
 
-- 🌱 I’m currently learning **React and Vue.js**
+- 🌱 I’m currently learning **Vue.js and Symfony**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
